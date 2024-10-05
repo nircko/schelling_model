@@ -9,9 +9,10 @@ Now, let’s connect this to neigberhoods in our society in what is called the  
 
 This model shows how, without any ill intentions, small personal choices can lead to large-scale segregation. It’s a reminder that our individual actions, when combined with others, can shape the world in ways we might never have imagined. Schelling’s model isn’t just about neighborhoods; it’s a window into understanding how small biases, repeated over time, can create divided societies, even if no one set out to create them.
 
+![](https://github.com/nircko/schelling_model/blob/main/schelling_model_animation.gif)\
 
 ### Run:
-vis_html.py
+schelling_model.py
 
 ### Dependencies:
 Install 'ImageMagick' https://imagemagick.org/script/download.php#windows  
